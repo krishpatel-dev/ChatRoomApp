@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938860811974",
+    "project_id": "authapp-1cef6",
+    "storage_bucket": "authapp-1cef6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938860811974:android:771082511f05fe2e35e9c7",
+        "android_client_info": {
+          "package_name": "com.krishhh.chatroomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm2o7VGyQItqSh-2sJCiI6ExZZxksHHgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
