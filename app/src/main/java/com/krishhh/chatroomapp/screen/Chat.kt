@@ -53,7 +53,7 @@ fun ChatScreen(
     Column(
         modifier = Modifier
             .fillMaxSize()
-            .padding(16.dp)
+            .padding(15.dp)
     ) {
         // Display the chat messages
         LazyColumn(
